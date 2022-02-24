@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/to_notes_list"
+        android:title="Notes" />
+    <item
+        android:id="@+id/to_assessments_list"
+        android:title="Assessments" />
+</menu>

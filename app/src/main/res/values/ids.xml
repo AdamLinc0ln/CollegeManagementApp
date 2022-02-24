@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="detailed_assessment_title" type="id" />
+    <item name="type_title" type="id" />
+    <item name="detailed_assessment_type" type="id" />
+    <item name="detailed_assessment_start_date" type="id" />
+    <item name="start_date_title" type="id" />
+    <item name="detailed_assessment_due_date" type="id" />
+    <item name="due_date_title" type="id" />
+    <item name="alarm_start_title" type="id" />
+    <item name="assessment_alarm_start" type="id" />
+    <item name="alarm_end_title" type="id" />
+    <item name="assessment_alarm_end" type="id" />
+    <item name="button_edit_assessment" type="id" />
+    <item name="detailed_course_title" type="id" />
+    <item name="detailed_course_start_date" type="id" />
+    <item name="textView2" type="id" />
+    <item name="detailed_course_end_date" type="id" />
+    <item name="textView3" type="id" />
+    <item name="detailed_course_status" type="id" />
+    <item name="textView" type="id" />
+    <item name="detailed_course_mentor_name" type="id" />
+    <item name="textView4" type="id" />
+    <item name="detailed_course_mentor_email_address" type="id" />
+    <item name="textView7" type="id" />
+    <item name="detailed_course_mentor_phone_number" type="id" />
+    <item name="textView5" type="id" />
+    <item name="textView8" type="id" />
+    <item name="start_alarm" type="id" />
+    <item name="textView9" type="id" />
+    <item name="textView6" type="id" />
+    <item name="button_edit_course" type="id" />
+</resources>

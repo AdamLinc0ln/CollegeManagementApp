@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/drawable/ic_close.xml" value="0.1" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_add_edit_assessment.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_add_edit_course.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_add_edit_note.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_add_edit_term.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_assessment.xml" value="0.24561403508771928" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_assessments_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_course.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_course_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_home_page.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_note.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_notes_list.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_reports.xml" value="0.30921820303383896" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_search.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/activity_term.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/assessment_item.xml" value="0.22" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/course_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/note_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/report_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/search_item.xml" value="0.28752642706131076" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/layout/term_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/menu/add_edit.xml" value="0.1796875" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/menu/add_term_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/menu/detailed_course.xml" value="0.1796875" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/Capstone/app/src/main/res/menu/share.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
