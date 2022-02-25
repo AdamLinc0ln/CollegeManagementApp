@@ -7,5 +7,4 @@ Users can edit a term, course, note or assessment by selecting the edit button o
 left or right on the list of items. To delete a term all courses but be deleted first. From the home view users may search through their terms and view a report
 the displays the term title and the start time for the term. 
 
-The College Management App uses room architecture components to store and retreive data from a SQlite database. The app uses alerts, date/time API a repository
-for external data retrieval for future development, advanced exception control, form validation, data manipulation and validation. 
+The College Management App uses room architecture components to store and retreive data from a SQlite database for data persistence. The app uses alerts, date/time API a repository for external data retrieval for future development, advanced exception control, form validation, data manipulation and validation, encapsulation, polymorphism, and Junit testing. 
